@@ -1,0 +1,10 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Aula05</string>
+    <string name="txt_peso">Peso</string>
+    <string name="txt_altura">Altura</string>
+    <string name="txt_resultado">Resultado</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="btn_config">Config</string>
+</resources>
